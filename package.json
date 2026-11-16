@@ -1,7 +1,7 @@
 {
-  "name": "medicalrecord",
+  "name": "mediblock",
   "version": "1.0.0",
-  "description": "",
+  "description": "MediBlock: Decentralized Patient-Sovereign Healthcare Records System on Ethereum",
   "main": "index.js",
   "scripts": {
     "compile": "node ethereum/compile.js",

@@ -148,7 +148,7 @@ sequenceDiagram
 ## 5. Project Directory Structure
 
 ```text
-blockchain-hospital-record/
+mediblock/
 ├── components/
 │   ├── Layout.js            # Global layout, Head metadata & embedded dark theme
 │   ├── MenuBar.js           # Dynamic role-aware navigation with MetaMask reactivity
@@ -382,7 +382,7 @@ To test locally without spending testnet ETH:
 ### Target Structure After Full Upgrade
 
 ```text
-blockchain-hospital-record/
+mediblock/
 ├── contracts/            # Record.sol (Solidity ^0.8.20 modular contracts)
 │   ├── PatientRegistry.sol
 │   ├── DoctorRegistry.sol
